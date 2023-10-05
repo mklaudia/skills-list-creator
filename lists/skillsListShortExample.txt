@@ -1,0 +1,22 @@
+Apache Web Framework:Apache Struts;3;0;0;0;1
+Apache Web Framework:Apache Wicket;2;;;;
+
+Continuous Integration & Delivery tools:Azure DevOps;5;3;;;1
+Continuous Integration & Delivery tools:Jenkins;4;;;;
+Continuous Integration & Delivery tools:Hudson;7;-3;;
+
+Databases:SQL Databases:MySQL;1;3;;
+Databases:SQL Databases:NoSQL;;-2;;1;1
+
+Digital Marketing Systems:Content Platforms:Confluence;0;2;1;
+
+Formal Sciences:Computer Sciences:Design patterns;3;;;
+Formal Sciences:Software Architectural Patterns:REST;5;;;
+Formal Sciences:Design Principles:SOLID (object-oriented design principles);3;2;1;1
+
+General Management:Agile:Scrum;5;2;;
+General Management:Agile:Extreme Programming (XP);;6;;
+General Management:Agile:Kanban
+General Management:Agile:SCRUMBAN;;;;
+
+//stars (0-5), prirority (negative..-...), hidden(0: no, 1: yes), brute-force-add(0: no, 1: yes) when empty: 0

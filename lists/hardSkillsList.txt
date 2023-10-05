@@ -1,0 +1,149 @@
+Apache Web Framework:Apache Struts;
+Apache Web Framework:Apache Wicket;
+
+Continuous Integration & Delivery tools:Azure CI/CD;
+Continuous Integration & Delivery tools:Jenkins;
+Continuous Integration & Delivery tools:Hudson;
+
+Databases:SQL Databases:MySQL;
+
+Digital Marketing Systems:Content Platforms:Confluence;
+
+Formal Sciences:Computer Sciences:Design patterns;
+
+Formal Sciences:Software Architectural Patterns:REST;
+
+Formal Sciences:Design Principles:SOLID (OO design principles);
+
+General Management:Agile:Kanban;
+General Management:Agile:SCRUMBAN;
+General Management:Agile:Scrum;
+
+
+
+Java Platform:Java Desktop and Rich Internet Applications:AWT;
+
+Java Platform:Java Utilities:Apache Commons;
+Java Platform:Java Utilities:Guava;
+Java Platform:Java Utilities:JRebel;
+Java Platform:Java Utilities:Jackson;
+Java Platform:Java Utilities:MapStruct;
+
+Java Platform:Java Build Tools:Apache Maven;
+Java Platform:Java Build Tools:Gradle;
+
+Java Platform:Java Web App Containers and HTTP servers:Apache Tomcat;
+
+Java Platform:Java Testing Tools:Cucumber;
+Java Platform:Java Testing Tools:JUnit;
+Java Platform:Java Testing Tools:Mockito;
+Java Platform:Java Testing Tools:REST Assured;
+Java Platform:Java Testing Tools:TestNG;
+
+Java Platform:Jakarta EE:EJB;
+Java Platform:Jakarta EE:JAXB;
+Java Platform:Jakarta EE:JDBC;
+Java Platform:Jakarta EE:JMS;
+Java Platform:Jakarta EE:JMX;
+Java Platform:Jakarta EE:Jakarta Servlet;
+
+Java Platform:Java IDEs:Eclipse;
+Java Platform:Java IDEs:IntelliJ;
+
+Java Platform:Java Template Engines:Facelets;
+
+Java Platform:Java Persistence Tools:Hibernate;
+
+Java Platform:Java Messaging Tools:IBM WebSphere Message Queuing;
+
+Java Platform:IntelliJ IDEA:IntelliJ Platform SDK;
+
+Java Platform:Jakarta EE;
+Java Platform:xlsx4j;
+
+Java Platform:Java Code Generators & Bytecode Manipulators:Lombok;
+
+Java Platform:Java Web Frameworks:PrimeFaces;
+Java Platform:Java Web Frameworks:Spring MVC;
+
+Java Platform:Java Bootstrapping Frameworks:Spring Boot;
+
+Java Platform:Java Dependency Injection Tools:Spring Core;
+
+Java Platform:Java Logging Tools:slf4j;
+
+Java Programming Languages:Java;
+
+Java Programming Languages:Java:Java 17;
+Java Programming Languages:Java:Java 11;
+Java Programming Languages:Java:Java 8;
+Java Programming Languages:Java:Java 7;
+Java Programming Languages:Java:Java 6;
+Java Programming Languages:Java:Java 4-6-8;
+
+Microsoft 365:Microsoft Visio;
+
+Microsoft 365:Microsoft Office:Microsoft Word;
+
+Network Tools:Terminal Emulators:PuTTY;
+
+Network Tools:WinSCP;
+
+Network Tools:Traffic sniffing tools:tcpdump;
+
+Operating Systems:MS Windows;
+Operating Systems:Unix;
+
+
+
+Perl:Perl 5;
+
+Python:Python 3.xx;
+
+Programming Technologies:REST API:.NET RESTful services and WebAPI;
+
+Programming Technologies:SOAP;
+
+SQL:Technologies:SQL;
+
+Scripting Languages:HTML/CSS Markup:Cross-browser compatible HTML/CSS markup;
+
+Scripting Languages:CSS Frameworks:Foundation CSS;
+
+Scripting Languages:JS Charts:Highcharts JS;
+
+Scripting Languages:JavaScript;
+
+Scripting Languages:Javascript Testing:Jest;
+
+Scripting Languages:CSS Preprocessors:LESS;
+Scripting Languages:CSS Preprocessors:PostCSS;
+Scripting Languages:CSS Preprocessors:SASS/SCSS;
+
+Scripting Languages:JavaScript Backend Platform:Node.js;
+
+Scripting Languages:JS Utils:Prototype;
+
+Scripting Languages:JavaScript Frameworks:ReactJS;
+
+Scripting Languages:Javascript Architecture:Redux;
+
+Scripting Languages:JavaScript Module Bundlers:Webpack;
+
+Scripting Languages:Module loader:babeljs;
+
+Scripting Languages:JS DOM:jQuery;
+
+Software Engineering Management Tools:Project Management/Defect Tracking Systems:Jira;
+
+Software Quality Tools:Code Audit Tools:Sonar;
+
+
+
+Test Automation Tools:Mocking/Stubbing Tools:Mocking for REST (Wiremock);
+
+Test Automation Tools:Unit Testing Tools:hamcrest;
+
+Version Control Systems:Distributed VCS:Git;
+
+Version Control Systems:Centralized VCS:TortoiseSVN;
